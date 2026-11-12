@@ -1,1 +1,0 @@
-# tiny-chess-01
